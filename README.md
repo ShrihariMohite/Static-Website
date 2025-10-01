@@ -6,7 +6,7 @@ The project demonstrates how to host an HTML + CSS site for free using GitHub.
 ---
 
 ## 🚀 Live Website
-👉 [Click here to visit](https://shriharimohite.github.io/Static-Website/index.html.txt)
+👉 [Click here to visit](https://shriharimohite.github.io/Static-Website/index.html)
 
 ---
 
